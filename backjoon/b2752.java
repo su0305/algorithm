@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// 세수 정렬
 public class b2752 {
     public static void main(String[] args) {
         

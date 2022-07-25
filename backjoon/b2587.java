@@ -20,6 +20,7 @@ public class b2587 {
 
         System.out.println(avg); 
         System.out.println(arr[2]);
-        
+     
+        sc.close();
     }
 }
